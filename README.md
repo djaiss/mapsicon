@@ -22,11 +22,10 @@ Some countries have been intentionally omitted, either because they have no offi
 
 ![Image](namerica.png)
 
-
-Why the hell do I provide these icons?
+Licence
 ========
 
-I've tried to sell these icons last year - it was a complete failure. I guess people are not interested in paying for them. This is why I've decided to open source those icons. The only thing I would ask of you, if you happen to use them, is to give me credits on your website. That's it.
+Do what you want with them as long as you mention me in your project. Please don't resell them - I forbid it!
 
 Some help
 ========
