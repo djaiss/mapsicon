@@ -3,7 +3,7 @@ Introduction
 
 Mapsicon is a free collection of maps for every country in the world, available in 11 different sizes, from 16x16 pixels to 512x512 pixels.
 
-[Image](namerica.png)
+![Image](namerica.png)
 
 
 Why the hell do I provide these icons?
