@@ -10,3 +10,8 @@ Why the hell do I provide these icons?
 ========
 
 I've tried to sell these icons last year - it was a complete failure. I guess people are not interested in paying for them. This is why I've decided to open source those icons. The only thing I would ask of you, if you happen to use them, is to give me credits on your website. That's it.
+
+Some help
+========
+
+If you need to access all those countries programmatically, here is a gist containing all the countries as well as their ISO code: https://gist.github.com/djaiss/2938259
