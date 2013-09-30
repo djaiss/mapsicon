@@ -22,7 +22,7 @@ Some countries have been intentionally omitted, either because they have no offi
 
 ![Image](namerica.png)
 
-Licence
+License
 ========
 
 Do what you want with them as long as you mention me in your project. Please don't resell them - I forbid it!
