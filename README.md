@@ -1,11 +1,10 @@
 ## Introduction
 
-Mapsicon is a free collection of maps for every country in the world, available in 11 different sizes, from 16x16 pixels to 512x512 pixels.
-
+Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as `.svg` format. Those _maps_ are intented to serve as nice placeholders or illustations in your project - they do not replace real or extremely precise maps and they have no ambition to do so.
 
 ## Technical information
 
-Icons are in PNG-8 bits with alpha transparency (basically, the background is transparent) and are in a black (#000) color. If you need them with a specific color, we can provide it to you in 48 hours for a fixed amount. Contact me for more information.
+Icons are in PNG-8 bits with alpha transparency (basically, the background is transparent) and are in a black (#000) color.
 
 ## Optimization of the images
 
@@ -18,6 +17,10 @@ The maps are named after the official two-letter country codes defined in ISO 31
 ## Are some countries omitted?
 
 Some countries have been intentionally omitted, either because they have no official maps yet or because they are islands that are so small that they can not be drawn. The omitted countries are Micronesia, Jersey, Marshall Islands, Northern Mariana Islands, Palestinia, Tuvalu and United States Minor Outlying Islands.
+
+## Why do I do this project?
+
+I created this project because I needed to programmatically call icons of countries in a pet-project and I couldn't find any free/good icons online. I took my courage and created from scratch all those maps using Fireworks.
 
 
 ![Image](namerica.png)
