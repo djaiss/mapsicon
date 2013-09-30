@@ -27,7 +27,7 @@ I created this project because I needed to programmatically call icons of countr
 ![Image](_assets/asia.png)
 ![Image](_assets/europe.png)
 ![Image](_assets/namerica.png)
-![Image](_assets/ocenia.png)
+![Image](_assets/oceania.png)
 ![Image](_assets/samerica.png)
 ![Image](_assets/us.png)
 
