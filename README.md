@@ -22,8 +22,14 @@ Some countries have been intentionally omitted, either because they have no offi
 
 I created this project because I needed to programmatically call icons of countries in a pet-project and I couldn't find any free/good icons online. I took my courage and created from scratch all those maps using Fireworks.
 
-
-![Image](namerica.png)
+![Image](_assets/namerica.png)
+![Image](_assets/africa.png)
+![Image](_assets/asia.png)
+![Image](_assets/europe.png)
+![Image](_assets/namerica.png)
+![Image](_assets/ocenia.png)
+![Image](_assets/samerica.png)
+![Image](_assets/us.png)
 
 License
 ========
