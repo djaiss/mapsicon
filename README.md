@@ -1,3 +1,7 @@
+##  Update
+
+Thanks so much for the suggestions everybody. I'm glad you like this project. However, I won't update anymore this repository. I'll let it as is from now on, for the community. For that matter, I've disabled the Issues. I hope you understand.
+
 ## Introduction
 
 Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as `.svg` format. Those _maps_ are intented to serve as nice placeholders or illustations in your project - they do not replace real or extremely precise maps and they have no ambition to do so.
